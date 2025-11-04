@@ -1,0 +1,62 @@
+📘 OCR 비교 결과 (Digital Writing)
+
+[원본 텍스트]
+It always seems impossible until it is done.
+→ 항상 불가능해 보이지만, 해내고 나면 가능해진다.
+
+
+A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.
+→ “비관론자는 모든 기회에서 어려움을 보고, 낙관론자는 모든 어려움에서 기회를 본다.
+
+
+The more I learn, the more I realize how much I don’t know.
+→ 내가 더 많이 배울수록 내가 얼마나 모르는가를 더 많이 깨닫는다.
+
+
+It’s not that I’m so smart, it’s just that I stay with problems longer.
+→ 내가 특별히 똑똑한 건 아니다. 단지 문제와 좀 더 오래 머물렀을 뿐이다
+
+[Tesseract 결과]
+It always seems impossible until it is done.
+
+ 항상 불가능해 보이지만, 해내고 나면 가능해진다.
+
+A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every
+difficulty.
+
+> 비관론자는 모든 기회에서 어려움을 보고, 낙관론자는 모든 어려움에서 기회를 본다.
+
+The more | learn, the more | realize how much | don’t know.
+
+> 내가 더 많이 배울수록 내가 얼마나 모르는가를 더 많이 깨닫는다.
+
+It’s not that I’m so smart, it’s just that | stay with problems longer.
+
+> 내가 특별히 똑똑한 건 아니다. 단지 문제와 좀 더 오래 머물렀을 뿐이다
+
+[OCR.Space 결과]
+lt always seems impossible until it is done.
+수 항상 불가능해 보이지만, 해내고 나면 가능해진다.
+A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every
+difficulty.
+수 비관론자는 모든 기회에서 어려움을 보고, 낙관론자는 모든 어려움에서 기회를 본다.
+The more I learn, the more I realize how much I don't know.
+수 내가 더 많이 배울수록 내가 얼마나 모르는가를 더 많이 깨닫는다.
+lt's not that l'm 50 smart, Just that I stay with problems longer.
+내가 특별히 똑똑한 건 아니다. 단지 문제와 종 더 오래 머물렀을 뿐이다
+
+[PyMuPDF 결과]
+It always seems impossible until it is done.
+→ 항상 불가능해 보이지만, 해내고 나면 가능해진다.
+A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every
+difficulty.
+→ 비관론자는 모든 기회에서 어려움을 보고, 낙관론자는 모든 어려움에서 기회를 본다.
+The more I learn, the more I realize how much I don’t know.
+→ 내가 더 많이 배울수록 내가 얼마나 모르는가를 더 많이 깨닫는다.
+It’s not that I’m so smart, it’s just that I stay with problems longer.
+→ 내가 특별히 똑똑한 건 아니다. 단지 문제와 좀 더 오래 머물렀을 뿐이다
+
+📊 인식률 비교
+Tesseract : 96.45%
+OCR.Space : 92.68%
+PyMuPDF   : 98.23%

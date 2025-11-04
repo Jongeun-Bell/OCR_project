@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Temp folders (결과 폴더 제외)
+temp/
+temp_digital/
+
+# System files
+.DS_Store
+.idea/
+.vscode/
+
+# 결과 폴더는 추적하지만 임시파일 제외
+!results/
+!results_digital/
+!results/*.png
+!results_digital/*.png
+!results/*.txt
+!results_digital/*.txt
+
