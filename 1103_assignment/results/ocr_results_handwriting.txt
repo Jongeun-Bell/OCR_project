@@ -1,0 +1,102 @@
+📘 OCR 비교 결과 (Handwriting)
+
+[원본 텍스트]
+It always seems impossible until it is done.
+→ 항상 불가능해 보이지만, 해내고 나면 가능해진다.
+
+
+A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.
+→ “비관론자는 모든 기회에서 어려움을 보고, 낙관론자는 모든 어려움에서 기회를 본다.
+
+
+The more I learn, the more I realize how much I don’t know.
+→ 내가 더 많이 배울수록 내가 얼마나 모르는가를 더 많이 깨닫는다.
+
+
+It’s not that I’m so smart, it’s just that I stay with problems longer.
+→ 내가 특별히 똑똑한 건 아니다. 단지 문제와 좀 더 오래 머물렀을 뿐이다
+
+[Tesseract 결과]
+|     LU. ce pe Sree ee eee eee                ~
+|                            ee ee
+sg PS Sta eras eS         e  2
+|     바가       -| it is. done.
+|       T+ always seems impossible atti Tete IS ———_   |
+|      ag May ee        &         가능해진다.                |
+|    A pessimist sees the difficulty in every Opportunity;
+|    SAD Ee OMNES | ae     rn          Be        |
+       an optimist sees the opportunity in_every diPticulty .
+|     00: -아니0166 2682     :      :    :
+-> 비완륜자는 모든 ㅋ5]어서 12aZs Yo, 판콘자는 모든 어혀즘에서    |
+te ee
+BR ae ie a eR a
+The more 1 learn, the more L realize how much L     |
+    “                      Pn a Apri ee A ak age Og a aclu peter아에사마
+.    그  0     0          SA me wie meee Sire ne kr vay Sn ala rig SD고 아아이아아아 이이 이시이 아이어 이이 이이이애아매사새저서서
+ 그 더 많이 매률수룩, 있마나 무는 가를 더 개닫는다.
+：                 TAR IE RE See oa eae rc aca ran ae RON CT apace
+Tis ret tt (meek ee RT Sh
+Bat retin or prerte Soetaeat Sat LS) _Just hat | stay with _
+_ pr oblems I onger.                   a 이 0
+내기 드리 922 ee
+cc Ne Behe aa ee Rel Kier, 단지 oH | @e   Ome Woc
+{    A reer ee PEAS Cl
+foc ene OTe SSA as cae ee 페이터 저래 지6      oe
+ee ese 20 0 a gn 3
+ean es  |  시  ea eo 신이
+Pig:     oan  홈 i eA a —— i
+
+[OCR.Space 결과]
+工十 alwayeeems impssib/e until it is done
+“ 누k능들" 1•尸,0t , 능H내2 나뗜 7k틈수HZ라.
+pessimist sees -Ehe difföcul±y—in—every_opportuni±y ,
+살) optim;st 즈ee우갸h乞-얳四rtun祛孝나r기…ever•쏘놔쮸•새g프!띤느
+비란존자는 모든 기회에l서 0•tz혐으 회교, 낙한%자는 요된 0i씌&어서
+기회를
+The more 1 learns -the more 고 rea/ize how much 1
+dorÆ know
+국 9K물수볶, 요로는 가릴 더
+not lh,) so smart,ikt$ 士너하土 1 stqy wifh
+problems longer.
+내가 펀치 한, 담지 은거에 수서 뿐이다
+
+[PyMuPDF 결과]
+[이미지 OCR 결과]
+eee                                                                                                                                   ere aba pra Terese                                    oe
+s Abergeteama neni
+
+insane TORR
+
+wo ung ay meant
+
+OA en ee tg Rn ne거어
+
+-> 비관륜자는 모든 ㅋ58|어서 어려운음 보고, 느관콘자는 모든 어려듬에서
+
+    
+                                                                                                                                                                                                                                                                   
+ 
+
+|    EE Yet
+The more 1 learn, the more L realize how much L
+1Come Nowe, sks
+7 더 Mel WWeGS , Goat 92s 가두 더 개대다       oa
+;   No   +     A  ee ae ana eeaoa ee
+Les ek Cet | Sh ork es fot ME | stay with _
+probleme. sengeye sia, ee 7 7
+Saye  = Ws    기기 ag 7 ee re eerie te Rh 000Ct
+그 내가 극별히 SE Aol ter. G21 Suey Be 어물었을 Worst
+ene ne ee MOA WD Orns identi ds meueaige So 0  6 BO cit
+
+\
+
+MAP Rd Nem ems
+~ 위           개 TOT WR Pik el as oa                                                                                                                                                     이
+
+mae          i                                                                                        -…-
+VW The aM P a new mad그 CATH Shame len hdd e mamen nese ead anne eT
+
+📊 인식률 비교
+Tesseract : 25.75%
+OCR.Space : 51.66%
+PyMuPDF   : 14.17%
