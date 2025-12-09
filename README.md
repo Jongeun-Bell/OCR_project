@@ -18,7 +18,6 @@
 ```
 OCR_project/
 ├── 1103_assignment/ # 영수증 OCR 및 소비 패턴 분석 1차 버전
-├── 1104_assignment/ # Spendy 프로젝트 시작 / Figma 시안 추가
 └── README.md # 전체 프로젝트 개요 및 버전 히스토리
 ```
 
@@ -30,7 +29,6 @@ OCR_project/
 | 날짜 | 폴더 | 주요 내용 |
 |------|------|-----------|
 | **2025-11-03** | [1103_assignment](./1103_assignment) | 영수증 OCR + 소비 통계 기초 구현 |
-| **2025-11-04** | [1104_assignment](./1104_assignment) | Spendy 프로젝트 기획 및 Figma 설계 반영 |
 
 ---
 
